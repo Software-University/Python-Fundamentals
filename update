@@ -1,6 +1,3 @@
-echo "# Python-Fundamentals" > README.md
-git init
 git add -A
 git commit -m "first commit"
-git remote add origin https://github.com/Software-University/Python-Fundamentals.git
-git push -u origin master
+git push
